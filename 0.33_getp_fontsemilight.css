@@ -1,0 +1,8 @@
+@font-face {
+  font-family: '0.33_getp_fontsemilight';
+  font-style:  normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("https://github.com/jiri-m/gp_webofnt/blob/main/0.33_getp_font-semilight-webfont.woff2") format("woff2"),
+       url('https://github.com/jiri-m/gp_webofnt/blob/main/0.33_getp_font-semilight-webfont.woff") format("woff");
+}
